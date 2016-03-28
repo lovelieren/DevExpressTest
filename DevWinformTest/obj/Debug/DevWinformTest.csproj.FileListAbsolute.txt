@@ -26,3 +26,6 @@ C:\Users\love_\Desktop\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.Ma
 C:\Users\love_\Desktop\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.csproj.GenerateResource.Cache
 C:\Users\love_\Desktop\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.exe.licenses
 C:\Users\love_\Desktop\DevWinformTest\DevWinformTest\obj\Debug\zh-CN\DevWinformTest.resources.dll
+C:\Users\ZQ\Documents\GitHub\DevExpressTest\DevWinformTest\bin\Debug\DevWinformTest.exe.config
+C:\Users\ZQ\Documents\GitHub\DevExpressTest\DevWinformTest\obj\Debug\DevWinformTest.exe
+C:\Users\ZQ\Documents\GitHub\DevExpressTest\DevWinformTest\obj\Debug\DevWinformTest.pdb
