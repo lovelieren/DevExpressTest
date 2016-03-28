@@ -1,0 +1,28 @@
+c:\users\zq\documents\visual studio 2013\Projects\DevWinformTest\DevWinformTest\bin\Debug\DevWinformTest.exe.config
+c:\users\zq\documents\visual studio 2013\Projects\DevWinformTest\DevWinformTest\bin\Debug\DevWinformTest.exe
+c:\users\zq\documents\visual studio 2013\Projects\DevWinformTest\DevWinformTest\bin\Debug\DevWinformTest.pdb
+c:\users\zq\documents\visual studio 2013\Projects\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.csprojResolveAssemblyReference.cache
+c:\users\zq\documents\visual studio 2013\Projects\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.Form1.resources
+c:\users\zq\documents\visual studio 2013\Projects\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.Properties.Resources.resources
+c:\users\zq\documents\visual studio 2013\Projects\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.csproj.GenerateResource.Cache
+c:\users\zq\documents\visual studio 2013\Projects\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.exe
+c:\users\zq\documents\visual studio 2013\Projects\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.pdb
+C:\Users\ZQ\Documents\Visual Studio 2013\Projects\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.exe.licenses
+C:\Users\ZQ\documents\visual studio 2013\Projects\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.MainRibbonForm.resources
+C:\Users\ZQ\documents\visual studio 2013\Projects\DevWinformTest\DevWinformTest\bin\Debug\zh-CN\DevWinformTest.resources.dll
+C:\Users\ZQ\documents\visual studio 2013\Projects\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.MainRibbonForm.zh-CN.resources
+C:\Users\ZQ\documents\visual studio 2013\Projects\DevWinformTest\DevWinformTest\obj\Debug\zh-CN\DevWinformTest.resources.dll
+C:\Users\love_\Desktop\DevWinformTest\DevWinformTest\bin\Debug\DevWinformTest.exe.config
+C:\Users\love_\Desktop\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.exe
+C:\Users\love_\Desktop\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.pdb
+C:\Users\love_\Desktop\DevWinformTest\DevWinformTest\bin\Debug\DevWinformTest.exe
+C:\Users\love_\Desktop\DevWinformTest\DevWinformTest\bin\Debug\DevWinformTest.pdb
+C:\Users\love_\Desktop\DevWinformTest\DevWinformTest\bin\Debug\zh-CN\DevWinformTest.resources.dll
+C:\Users\love_\Desktop\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.csprojResolveAssemblyReference.cache
+C:\Users\love_\Desktop\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.Form1.resources
+C:\Users\love_\Desktop\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.MainRibbonForm.resources
+C:\Users\love_\Desktop\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.Properties.Resources.resources
+C:\Users\love_\Desktop\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.MainRibbonForm.zh-CN.resources
+C:\Users\love_\Desktop\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.csproj.GenerateResource.Cache
+C:\Users\love_\Desktop\DevWinformTest\DevWinformTest\obj\Debug\DevWinformTest.exe.licenses
+C:\Users\love_\Desktop\DevWinformTest\DevWinformTest\obj\Debug\zh-CN\DevWinformTest.resources.dll
