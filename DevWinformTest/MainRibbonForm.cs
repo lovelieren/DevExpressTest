@@ -15,7 +15,26 @@ namespace DevWinformTest
     {
         public MainRibbonForm()
         {
-            InitializeComponent();
+            InitializeComponent();            
+        }
+
+        void ribbon_SelectedPageChanged(object sender, EventArgs e)
+        {
+        }
+
+        private void barButtonItem12_ItemClick(object sender, ItemClickEventArgs e)
+        {
+            SymmetricalPlumeConfig form = new SymmetricalPlumeConfig();
+            form.ShowDialog();
+        }
+
+        private void btn_CopyToClipboard_Click(object sender, EventArgs e)
+        {
+            if (pictureBox1.Image != null)
+            {
+                Clipboard.SetImage(pictureBox1.Image);
+                MessageBox.Show("图片已复制到剪切板", "温馨提示", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
         }
 
     }
